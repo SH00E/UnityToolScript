@@ -1,0 +1,2 @@
+# UnityToolScript
+用于创建一些UnityEditor的拓展功能，例如快捷键之类的
